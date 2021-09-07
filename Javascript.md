@@ -15,6 +15,18 @@
 
 
 
+### 가운데 글자 가져오기
+
+##### Math.ceil
+
+* 올림
+
+```javascript
+Math.ceil(4) // 4
+Math.ceil(4.2) // 5
+Math.ceil(4.7) // 5
+```
+
 
 
 
